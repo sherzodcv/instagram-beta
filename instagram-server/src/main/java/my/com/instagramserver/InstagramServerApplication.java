@@ -9,5 +9,4 @@ public class InstagramServerApplication {
     public static void main(String[] args) {
         SpringApplication.run(InstagramServerApplication.class, args);
     }
-
 }
